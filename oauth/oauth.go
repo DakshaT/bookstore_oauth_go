@@ -2,7 +2,7 @@ package oauth
 
 import (
 	//"errors"
-	"bookstoreapp/bookstore_oauth_api/src/utils/errors"
+	//"github.com/DakshaT/bookstoreapp/bookstore_utils-go/rest_errors"
 	"encoding/json"
 	"fmt"
 	"net/http"
